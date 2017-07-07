@@ -10,11 +10,8 @@ Scholar provides an intuitive interface for Word2Vec and can be downloaded from 
 
 
 
-
-
-'''bash
+```bash
 $python variance.py [your vectors.txt]
-'''
-
+```
 
 
