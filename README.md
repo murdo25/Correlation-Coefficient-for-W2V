@@ -6,7 +6,7 @@ Calculates the Correlation Coefficient for averaged word vector analogies.
 * scholar 
 * Word2Vec
 
-Scholar provides an intuitive interface for Word2Vec and can be downloaded from [danielrick's] github. (https://github.com/danielricks/scholar)
+Scholar provides an intuitive interface for Word2Vec and can be downloaded from [danielrick's](https://github.com/danielricks/scholar) github. 
 
 
 
